@@ -106,4 +106,4 @@ CatBoost stands out for its specialized handling of categorical features without
 In this case, the results from XGBoost, LightGBM, and CatBoost were nearly identical. It suggests that the dataset was well-suited for these models, and the parameters were appropriately optimized. However, it's important to remember that results can vary depending on the specific characteristics of the dataset and the nature of the problem at hand. Therefore, it's important to explore and experiment with different models, parameters, and techniques to find the best approach for your particular scenario.
 
 ## Contact
-![LinkedIn profil](https://www.linkedin.com/in/izabela-matusiewicz/)
+[LinkedIn profil](https://www.linkedin.com/in/izabela-matusiewicz/)
